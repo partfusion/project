@@ -1,7 +1,7 @@
 from tkinter import *
 
 
-class Main(Frame):
+class Main(Frame): #privet
     def __init__(self, root):
         super(Main, self).__init__(root)
         self.build()
